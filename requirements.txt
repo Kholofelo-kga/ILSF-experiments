@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+jupyter
+# Only needed for sections 7-9 (E4, E5):
+torch
+transformers
+sentencepiece
+accelerate
